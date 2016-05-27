@@ -11,13 +11,13 @@
 ## Setting Up Your Environment for Java 
 ## Importing XML-RPC Libraries
 
-# Contact Info 
+## Contact Info 
 
 - Visit our API page to view our other wrappers and documentation:<br>
         http://www.benchmarkemail.com/API/Library
 The following are some full examples that you should be able to download, drop into a webserver directory, and make a few key edits. Look for the README files in them to get started.
 
-# Licensing 
+## Licensing 
 
 Copyright (c) 2014 BenchmarkEmail, released under the MIT license
 
