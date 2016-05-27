@@ -1,4 +1,12 @@
 ## Description
+* All of our example XML-RPC code from the documentation for use with PEAR XML-RPC2. (Recommended)
+* This is recommended and is the most efficient and fastest way to use our api.
+* It will always be updated, you can use any method the moment the api is added.
+* It requires that you be able to setup Pear XML-RPC2 by yourself. https://pear.php.net/package/XML_RPC2/
+* BME API For PHP 4/5 - connects to and supports the methods found in version 1.3 of our API.
+* This is a slower way and is deprecated currently.
+* We don’t usually update the methods, so updates will be infrequent
+
 ## Prerequisites
 ## Setting Up Your Environment for Java 
 ## Importing XML-RPC Libraries
@@ -8,14 +16,6 @@
 - Visit our API page to view our other wrappers and documentation:<br>
         http://www.benchmarkemail.com/API/Library
 The following are some full examples that you should be able to download, drop into a webserver directory, and make a few key edits. Look for the README files in them to get started.
-
-* All of our example XML-RPC code from the documentation for use with PEAR XML-RPC2. (Recommended)
-* This is recommended and is the most efficient and fastest way to use our api.
-* It will always be updated, you can use any method the moment the api is added.
-* It requires that you be able to setup Pear XML-RPC2 by yourself. https://pear.php.net/package/XML_RPC2/
-* BME API For PHP 4/5 - connects to and supports the methods found in version 1.3 of our API.
-* This is a slower way and is deprecated currently.
-* We don’t usually update the methods, so updates will be infrequent
 
 # Licensing 
 
